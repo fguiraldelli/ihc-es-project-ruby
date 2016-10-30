@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  token: MyString
+  positivo: 1
+  negativo: 1
+
+two:
+  token: MyString
+  positivo: 1
+  negativo: 1
